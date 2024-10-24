@@ -24,7 +24,7 @@ export const projectsData = [
      Node.js, MongoDB, Material UI, and JSON Web Tokens (JWT),
      Social-Pixel provides an engaging platform for users to connect with friends through dynamic visual and textual content.`,
     date: "2023-02-07",
-    demoLink: "https://github.com/sandeepdev777/Social-Pixel.git",
+    demoLink: "https://social-pixel.vercel.app/",
   },
   {
     id: 2,
